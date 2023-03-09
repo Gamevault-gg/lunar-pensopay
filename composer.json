@@ -17,7 +17,7 @@
     ],
     "require": {
         "php": "^8.1",
-        "illuminate/contracts": "^9.0",
+        "illuminate/contracts": "^10.0",
         "lunarphp/lunar": "0.2-rc2",
         "spatie/laravel-package-tools": "^1.14.0",
         "spatie/laravel-webhook-client": "^3.1"
